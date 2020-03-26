@@ -1,0 +1,2 @@
+The swing view is able to display all the tower of hanoi animations but not the night sky animation due to a null pointer exception
+when the shape is being fetched using the shape id. Everything else works fine, please consider.

@@ -1,0 +1,8 @@
+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ºÂÒšüÿÿÿÿ
+_squid:S2184H"HCast one of the operands of this multiplication operation to a "double".(Éæ¸ş
+esquid:S1192O"IDefine a constant instead of duplicating this literal "\" to=\"" 3 times.(ÙˆÍÿÿÿÿÿ
+Wsquid:S2184I"@Cast one of the operands of this integer division to a "double".(öœŒ®
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÏé
+squid:S1192M"jDefine a constant instead of duplicating this literal "\n<animate attributeType=\"xml\" begin=\"" 3 times.(ˆ˜‡Ô
+Wsquid:S2184H"@Cast one of the operands of this integer division to a "double".(Éæ¸ş

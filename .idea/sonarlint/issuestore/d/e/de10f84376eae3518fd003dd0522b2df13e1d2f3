@@ -1,0 +1,10 @@
+
+3squid:S1643R"Use a StringBuilder instead.(ÿÃÉ
+8squid:S1643T"Use a StringBuilder instead.(†ãÅ¤ûÿÿÿÿ
+3squid:S1643V"Use a StringBuilder instead.(ïÎÓÀ
+3squid:S1643Z"Use a StringBuilder instead.(‡ˆÌå
+3squid:S1643["Use a StringBuilder instead.(•ßôØ
+3squid:S1643b"Use a StringBuilder instead.(‹ì¿à
+}squid:S1488p"fImmediately return this expression instead of assigning it to the temporary variable "readOnlyShapes".(¸”Ê
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤õùûÿÿÿÿÿ
+osquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾½Œèúÿÿÿÿ

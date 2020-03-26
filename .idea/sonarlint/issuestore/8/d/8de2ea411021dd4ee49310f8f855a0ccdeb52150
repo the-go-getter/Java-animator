@@ -1,0 +1,23 @@
+
+^squid:S1192¸"FDefine a constant instead of duplicating this literal "start" 8 times.(ô í
+^squid:S1192…"FDefine a constant instead of duplicating this literal " for " 5 times.(š‚÷­
+bsquid:S1192p"FDefine a constant instead of duplicating this literal "width" 3 times.(Çİœùÿÿÿÿÿ
+^squid:S1192s"GDefine a constant instead of duplicating this literal "height" 3 times.(ïÍ×ğ
+ksquid:S1192…"SDefine a constant instead of duplicating this literal "Invalid attribute " 5 times.(š‚÷­
+[squid:S2095!"EUse try-with-resources or close this "Scanner" in a "finally" clause.(®ãÄB
+Bsquid:S5411¡"*Use the primitive boolean expression here.(Ú’º£
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹š“«şÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(âŒÆŞüÿÿÿÿ
+¡%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'java.util.InputMismatchException' which is a runtime exception.(âŒÆŞüÿÿÿÿ
+™%squid:RedundantThrowsDeclarationCheckd"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Æ…1
+š%squid:RedundantThrowsDeclarationCheckd"kRemove the declaration of thrown exception 'java.util.InputMismatchException' which is a runtime exception.(Æ…1
+š%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Æ…1
+›%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'java.util.InputMismatchException' which is a runtime exception.(Æ…1
+š%squid:RedundantThrowsDeclarationCheck¸"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Æ…1
+›%squid:RedundantThrowsDeclarationCheck¸"kRemove the declaration of thrown exception 'java.util.InputMismatchException' which is a runtime exception.(Æ…1
+š%squid:RedundantThrowsDeclarationCheck×"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Æ…1
+›%squid:RedundantThrowsDeclarationCheck×"kRemove the declaration of thrown exception 'java.util.InputMismatchException' which is a runtime exception.(Æ…1
+š%squid:RedundantThrowsDeclarationCheckø"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Æ…1
+›%squid:RedundantThrowsDeclarationCheckø"kRemove the declaration of thrown exception 'java.util.InputMismatchException' which is a runtime exception.(Æ…1
+vsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãù§ ÿÿÿÿÿ
+Esquid:S1481%".Remove this unused "shapeInfo" local variable.(ÔŒ¤Æ
