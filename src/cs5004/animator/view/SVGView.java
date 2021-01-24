@@ -26,7 +26,7 @@ public class SVGView implements IView {
   @Override
   public void render(IModel model, Appendable out, int fps) {
     try {
-      out.append("<svg width=\"1000\" height=\"1000\" version=\"1.1\"" +
+      out.append("<svg width=\"2000\" height=\"2000\" version=\"1.1\"" +
               " xmlns=\"http://www.w3.org/2000/svg\">\n");
     } catch (IOException ignore) {
       // Ignore.

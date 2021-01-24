@@ -23,7 +23,7 @@ public class SwingView extends JFrame implements IView {
     drawingPanel = new DrawingPanel();
     drawingPanel.setBackground(Color.white);
     drawingPanel.setPreferredSize(new Dimension(1500,1500));
-    setSize(500, 500);
+    setSize(1000, 1000);
     setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     JScrollPane pane = new JScrollPane(drawingPanel, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,
             JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
