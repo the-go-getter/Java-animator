@@ -1,4 +1,4 @@
-##Easy Animator
+<h2> Easy Animator </h2>
 
 <p> This is the repository for a Java based application used for viewing and creating animations from 
 .SVG and .txt files. </p>
