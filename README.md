@@ -26,7 +26,7 @@ inputs as command-line arguments (available in our application through the argum
    set is not specified, the default will be System.out. If the speed is not specified, the default 
    is 1 tick per second.
    
-   This main() method will be the entry point for our application. We will need to create an 
+   This main() method will be the entry point for this application. We will need to create an 
    Application run configuration in IntelliJ (or any other IDE) that chooses cs5004.animator.EasyAnimator 
    as its main class. In this run configuration, we can also specify command-line arguments, 
    such as the file you want to read in, and the view name you want to use. 
